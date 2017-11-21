@@ -1,0 +1,10 @@
+C:\Users\studentAm\AppData\Local\Temporary Projects\XMLexample\bin\Debug\XMLexample.exe.config
+E:\Job related\Programs\XMLexample\XMLexample\bin\Debug\XMLexample.exe.config
+E:\Job related\Programs\XMLexample\XMLexample\obj\Debug\XMLexample.csprojResolveAssemblyReference.cache
+E:\Job related\Programs\XMLexample\XMLexample\obj\Debug\XMLexample.frmMainForm.resources
+E:\Job related\Programs\XMLexample\XMLexample\obj\Debug\XMLexample.Properties.Resources.resources
+E:\Job related\Programs\XMLexample\XMLexample\obj\Debug\XMLexample.csproj.GenerateResource.Cache
+E:\Job related\Programs\XMLexample\XMLexample\bin\Debug\XMLexample.exe
+E:\Job related\Programs\XMLexample\XMLexample\bin\Debug\XMLexample.pdb
+E:\Job related\Programs\XMLexample\XMLexample\obj\Debug\XMLexample.exe
+E:\Job related\Programs\XMLexample\XMLexample\obj\Debug\XMLexample.pdb
